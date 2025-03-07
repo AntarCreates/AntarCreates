@@ -23,8 +23,8 @@ I'm an **ML Engineer at FringeCore**, specializing in computer vision with a BSc
 #### 🌍 3D Perception & Simulation
 ![Open3D](https://img.shields.io/badge/Open3D-0078D4?style=for-the-badge)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-9C27B0?style=for-the-badge)
-![NVIDIA Isaac](https://img.shields.io/badge/NVIDIA%20Isaac-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-9C27B0?style=for-the-badge)
+![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### 🚀 Featured Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AntarCreates&repo=big_bot_description&theme=dark)](https://github.com/AntarCreates/big_bot_description)
