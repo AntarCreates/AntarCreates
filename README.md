@@ -33,6 +33,6 @@ I'm an **ML Engineer at FringeCore**, specializing in computer vision with a BSc
 
 ### 📡 Connect with Mission Control
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AntarMazumder-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antarmazumder)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-blue?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=BfGfzocAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Antar%20Mazumder-blue?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=BfGfzocAAAAJ)
 [![GitHub](https://img.shields.io/badge/GitHub-AntarCreates-black?style=for-the-badge&logo=github)](https://github.com/AntarCreates)
 [![Website](https://img.shields.io/badge/Website-AntarBio-orange?style=for-the-badge&logo=googlechrome)](https://sites.google.com/view/antarbio)
