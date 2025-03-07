@@ -1,4 +1,4 @@
-### Hey, Earthlings! Antar here 👨‍🚀 
+### Hey, Earthling! Antar here 👨‍🚀 
 
 #### 🚀 ML Engineer | Space Robotics & AI Researcher | Vision-Language Models Enthusiast
 
