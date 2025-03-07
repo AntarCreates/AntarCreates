@@ -1,11 +1,38 @@
-Greetings! I am Antar, a current undergraduate student in the Department of Mechatronics Engineering at Rajshahi University of Engineering & Technology (RUET).
-I finished my higher secondary education at Notre Dame College in Dhaka. I also double as a freelance writer with expertise in academic and review articles.
+### Hey, Earthlings! Antar here 👨‍🚀 
 
-I've had a lifelong fascination with bleeding-edge technology, the arts, and literature. Therefore, one could argue that my interests are diverse. 
-I'm a natural improviser rather than a slow-paced planner, and it's never let me down. I hope we get along well.
-LinkedIn : https://www.linkedin.com/in/antarmazumder
+#### 🚀 ML Engineer | Space Robotics & AI Researcher | Vision-Language Models Enthusiast
 
-<!---
-AntarCreates/AntarCreates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an **ML Engineer at FringeCore**, specializing in computer vision with a BSc in Mechatronics Engineering from Rajshahi University of Engineering and Technology (RUET). My research interests are primarily centered around robot perception, and digital twin-incorporated robotics, with a strong emphasis on space robotics. I have also explored human-robot interaction and robotic exoskeletons.**
+
+
+### 🛰️ Research Interests
+- **Space Robotics & AI** 🚀 | Planetary Exploration 🌍🔭
+- **Vision-Language Models (VLMs) for Autonomous Navigation** 🖼️📝
+- **3D Computer Vision & Point Cloud Processing for Extraterrestrial Terrain**
+- **Deep Learning & Multimodal Perception in Harsh Environments**
+- **AI for Sustainable Exploration & Off-World Colonization**
+
+### 🔧 Space-Ready Tech Stack
+#### 🧠 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### 🌍 3D Perception & Simulation
+![Open3D](https://img.shields.io/badge/Open3D-0078D4?style=for-the-badge)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-9C27B0?style=for-the-badge)
+![NVIDIA Isaac](https://img.shields.io/badge/NVIDIA%20Isaac-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+### 🚀 Featured Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AntarCreates&repo=big_bot_description&theme=dark)](https://github.com/AntarCreates/big_bot_description)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AntarCreates&repo=RTG&theme=dark)](https://github.com/AntarCreates/RTG)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AntarCreates&repo=tinyTurtle&theme=dark)](https://github.com/AntarCreates/tinyTurtle)
+
+### 📡 Connect with Mission Control
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AntarMazumder-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antarmazumder)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-blue?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=BfGfzocAAAAJ)
+[![GitHub](https://img.shields.io/badge/GitHub-AntarCreates-black?style=for-the-badge&logo=github)](https://github.com/AntarCreates)
+[![Website](https://img.shields.io/badge/Website-AntarBio-orange?style=for-the-badge&logo=googlechrome)](https://sites.google.com/view/antarbio)
