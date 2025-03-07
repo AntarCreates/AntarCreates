@@ -12,7 +12,7 @@ I'm an **ML Engineer at FringeCore**, specializing in computer vision with a BSc
 - **Deep Learning & Multimodal Perception in Harsh Environments**
 - **AI for Sustainable Exploration & Off-World Colonization**
 
-### 🔧 Space-Ready Tech Stack
+### 🔧 Stack
 #### 🧠 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
