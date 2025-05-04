@@ -2,7 +2,7 @@
 
 #### 🚀 ML Engineer | Space Robotics & AI Researcher | Vision-Language Models Enthusiast
 
-I'm an **ML Engineer at FringeCore**, specializing in computer vision with a BSc in Mechatronics Engineering from Rajshahi University of Engineering and Technology (RUET). My research interests are primarily centered around robot perception, and digital twin-incorporated robotics, with a strong emphasis on space robotics. I have also explored human-robot interaction and robotic exoskeletons.**
+I'm an **ML Engineer at FringeCore**, specializing in computer vision with a BSc in Mechatronics Engineering from Rajshahi University of Engineering and Technology (RUET). My research interests are primarily centered around robot perception, and digital twin-incorporated robotics, with a strong emphasis on space robotics and terrain reconstruction. I have also explored human-robot interaction and robotic exoskeletons.
 
 ![b32edc94a13b9e355663a3c8960720ae](https://github.com/user-attachments/assets/e97659a6-72b1-46dc-9e7a-377f22e8f3cb)
 
