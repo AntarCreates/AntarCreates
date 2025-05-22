@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" /> Hey, Earthling! Antar here <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" width="35" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00A0F0&center=true&vCenter=true&width=600&height=70&lines=Machine+Learning+Engineer;Space+Robotics+Researcher;Maker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=1500&pause=300&color=00A0F0&center=true&vCenter=true&width=600&height=70&lines=Machine+Learning+Engineer;Space+Robotics+Researcher;Maker" />
   <br>
   <img src="https://github.com/user-attachments/assets/e97659a6-72b1-46dc-9e7a-377f22e8f3cb" width="500" />
 </div>
@@ -15,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite.png" width="25" /> About Mission Control
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite.png" width="25" /> About Me
 
 I'm an **ML Engineer at FringeCore**, specializing in computer vision with a BSc in Mechatronics Engineering from Rajshahi University of Engineering and Technology (RUET). My mission is focused on robot perception and digital twin-incorporated robotics, with a strong emphasis on space robotics and terrain reconstruction for extraterrestrial exploration and autonomous navigation systems.
 
